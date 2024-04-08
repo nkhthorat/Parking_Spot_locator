@@ -1,4 +1,4 @@
-# Parking_Spot_locator
+# <B> Parking_Spot_locator
 
 ## 1.Model.py :
                 This is a saved ML model which uses SVM to classify the images of single parking spot, as either empty/not-empty.
